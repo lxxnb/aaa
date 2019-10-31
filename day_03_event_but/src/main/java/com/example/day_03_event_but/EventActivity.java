@@ -44,6 +44,7 @@ public class EventActivity extends AppCompatActivity {
     private Unbinder mUnbinder;
     
     //我那么爱你，你却牵着别人的手在公园里溜达
+    //快捷键  command  shift  k
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
